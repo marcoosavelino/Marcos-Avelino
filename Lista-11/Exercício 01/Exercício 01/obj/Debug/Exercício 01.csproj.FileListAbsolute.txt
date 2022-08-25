@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 11\Exercício 01\Exercício 01\bin\Debug\Exercício 01.exe.config
+C:\Users\Vitor\Documents\C# Lista 11\Exercício 01\Exercício 01\bin\Debug\Exercício 01.exe
+C:\Users\Vitor\Documents\C# Lista 11\Exercício 01\Exercício 01\bin\Debug\Exercício 01.pdb
+C:\Users\Vitor\Documents\C# Lista 11\Exercício 01\Exercício 01\obj\Debug\Exercício 01.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 11\Exercício 01\Exercício 01\obj\Debug\Exercício 01.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 11\Exercício 01\Exercício 01\obj\Debug\Exercício 01.exe
+C:\Users\Vitor\Documents\C# Lista 11\Exercício 01\Exercício 01\obj\Debug\Exercício 01.pdb

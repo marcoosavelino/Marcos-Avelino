@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 04\Ex 02 Lista 05 Dia da Semana\Ex 02 Lista 05 Dia da Semana\bin\Debug\Ex 02 Lista 05 Dia da Semana.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 02 Lista 05 Dia da Semana\Ex 02 Lista 05 Dia da Semana\bin\Debug\Ex 02 Lista 05 Dia da Semana.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 02 Lista 05 Dia da Semana\Ex 02 Lista 05 Dia da Semana\bin\Debug\Ex 02 Lista 05 Dia da Semana.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 02 Lista 05 Dia da Semana\Ex 02 Lista 05 Dia da Semana\obj\Debug\Ex 02 Lista 05 Dia da Semana.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 02 Lista 05 Dia da Semana\Ex 02 Lista 05 Dia da Semana\obj\Debug\Ex 02 Lista 05 Dia da Semana.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 02 Lista 05 Dia da Semana\Ex 02 Lista 05 Dia da Semana\obj\Debug\Ex 02 Lista 05 Dia da Semana.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 02 Lista 05 Dia da Semana\Ex 02 Lista 05 Dia da Semana\obj\Debug\Ex 02 Lista 05 Dia da Semana.pdb

@@ -1,0 +1,6 @@
+H:\C# Lista 01\Ex 04 Lista 02 CNH D\bin\Debug\Ex 04 Lista 02 CNH D.exe.config
+H:\C# Lista 01\Ex 04 Lista 02 CNH D\bin\Debug\Ex 04 Lista 02 CNH D.exe
+H:\C# Lista 01\Ex 04 Lista 02 CNH D\bin\Debug\Ex 04 Lista 02 CNH D.pdb
+H:\C# Lista 01\Ex 04 Lista 02 CNH D\obj\Debug\Ex 04 Lista 02 CNH D.csprojResolveAssemblyReference.cache
+H:\C# Lista 01\Ex 04 Lista 02 CNH D\obj\Debug\Ex 04 Lista 02 CNH D.exe
+H:\C# Lista 01\Ex 04 Lista 02 CNH D\obj\Debug\Ex 04 Lista 02 CNH D.pdb

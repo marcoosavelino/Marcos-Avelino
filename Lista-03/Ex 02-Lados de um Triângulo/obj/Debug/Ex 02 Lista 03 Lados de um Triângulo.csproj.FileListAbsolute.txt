@@ -1,0 +1,6 @@
+H:\C# Lista 01\Ex 02 Lista 03 Lados de um Triângulo\bin\Debug\Ex 02 Lista 03 Lados de um Triângulo.exe.config
+H:\C# Lista 01\Ex 02 Lista 03 Lados de um Triângulo\bin\Debug\Ex 02 Lista 03 Lados de um Triângulo.exe
+H:\C# Lista 01\Ex 02 Lista 03 Lados de um Triângulo\bin\Debug\Ex 02 Lista 03 Lados de um Triângulo.pdb
+H:\C# Lista 01\Ex 02 Lista 03 Lados de um Triângulo\obj\Debug\Ex 02 Lista 03 Lados de um Triângulo.csprojResolveAssemblyReference.cache
+H:\C# Lista 01\Ex 02 Lista 03 Lados de um Triângulo\obj\Debug\Ex 02 Lista 03 Lados de um Triângulo.exe
+H:\C# Lista 01\Ex 02 Lista 03 Lados de um Triângulo\obj\Debug\Ex 02 Lista 03 Lados de um Triângulo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 14\Switch Lista 14 Métodos\Switch Lista 14 Métodos\bin\Debug\Switch Lista 14 Métodos.exe.config
+C:\Users\Vitor\Documents\C# Lista 14\Switch Lista 14 Métodos\Switch Lista 14 Métodos\bin\Debug\Switch Lista 14 Métodos.exe
+C:\Users\Vitor\Documents\C# Lista 14\Switch Lista 14 Métodos\Switch Lista 14 Métodos\bin\Debug\Switch Lista 14 Métodos.pdb
+C:\Users\Vitor\Documents\C# Lista 14\Switch Lista 14 Métodos\Switch Lista 14 Métodos\obj\Debug\Switch Lista 14 Métodos.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 14\Switch Lista 14 Métodos\Switch Lista 14 Métodos\obj\Debug\Switch Lista 14 Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 14\Switch Lista 14 Métodos\Switch Lista 14 Métodos\obj\Debug\Switch Lista 14 Métodos.exe
+C:\Users\Vitor\Documents\C# Lista 14\Switch Lista 14 Métodos\Switch Lista 14 Métodos\obj\Debug\Switch Lista 14 Métodos.pdb

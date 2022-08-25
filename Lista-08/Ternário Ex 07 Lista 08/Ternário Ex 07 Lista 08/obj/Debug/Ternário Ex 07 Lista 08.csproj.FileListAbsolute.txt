@@ -1,0 +1,6 @@
+C:\Users\Vitor\Documents\C# Lista 08\Ternário Ex 07 Lista 08\Ternário Ex 07 Lista 08\bin\Debug\Ternário Ex 07 Lista 08.exe.config
+C:\Users\Vitor\Documents\C# Lista 08\Ternário Ex 07 Lista 08\Ternário Ex 07 Lista 08\bin\Debug\Ternário Ex 07 Lista 08.exe
+C:\Users\Vitor\Documents\C# Lista 08\Ternário Ex 07 Lista 08\Ternário Ex 07 Lista 08\bin\Debug\Ternário Ex 07 Lista 08.pdb
+C:\Users\Vitor\Documents\C# Lista 08\Ternário Ex 07 Lista 08\Ternário Ex 07 Lista 08\obj\Debug\Ternário Ex 07 Lista 08.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 08\Ternário Ex 07 Lista 08\Ternário Ex 07 Lista 08\obj\Debug\Ternário Ex 07 Lista 08.exe
+C:\Users\Vitor\Documents\C# Lista 08\Ternário Ex 07 Lista 08\Ternário Ex 07 Lista 08\obj\Debug\Ternário Ex 07 Lista 08.pdb

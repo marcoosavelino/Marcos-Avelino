@@ -1,0 +1,13 @@
+D:\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\bin\Debug\Ex 04 Lista 04 cotação.exe.config
+D:\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\bin\Debug\Ex 04 Lista 04 cotação.exe
+D:\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\bin\Debug\Ex 04 Lista 04 cotação.pdb
+D:\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\obj\Debug\Ex 04 Lista 04 cotação.csprojResolveAssemblyReference.cache
+D:\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\obj\Debug\Ex 04 Lista 04 cotação.exe
+D:\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\obj\Debug\Ex 04 Lista 04 cotação.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\bin\Debug\Ex 04 Lista 04 cotação.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\bin\Debug\Ex 04 Lista 04 cotação.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\bin\Debug\Ex 04 Lista 04 cotação.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\obj\Debug\Ex 04 Lista 04 cotação.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\obj\Debug\Ex 04 Lista 04 cotação.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\obj\Debug\Ex 04 Lista 04 cotação.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 04 Lista 04 cotação\Ex 04 Lista 04 cotação\obj\Debug\Ex 04 Lista 04 cotação.pdb

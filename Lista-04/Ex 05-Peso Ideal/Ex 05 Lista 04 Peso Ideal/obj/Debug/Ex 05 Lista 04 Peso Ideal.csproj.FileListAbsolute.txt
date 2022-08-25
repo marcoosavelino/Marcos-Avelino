@@ -1,0 +1,13 @@
+D:\C# Lista 04\Ex 05 Lista 04 Peso Ideal\Ex 05 Lista 04 Peso Ideal\bin\Debug\Ex 05 Lista 04 Peso Ideal.exe.config
+D:\C# Lista 04\Ex 05 Lista 04 Peso Ideal\Ex 05 Lista 04 Peso Ideal\obj\Debug\Ex 05 Lista 04 Peso Ideal.csprojResolveAssemblyReference.cache
+D:\C# Lista 04\Ex 05 Lista 04 Peso Ideal\Ex 05 Lista 04 Peso Ideal\bin\Debug\Ex 05 Lista 04 Peso Ideal.exe
+D:\C# Lista 04\Ex 05 Lista 04 Peso Ideal\Ex 05 Lista 04 Peso Ideal\bin\Debug\Ex 05 Lista 04 Peso Ideal.pdb
+D:\C# Lista 04\Ex 05 Lista 04 Peso Ideal\Ex 05 Lista 04 Peso Ideal\obj\Debug\Ex 05 Lista 04 Peso Ideal.exe
+D:\C# Lista 04\Ex 05 Lista 04 Peso Ideal\Ex 05 Lista 04 Peso Ideal\obj\Debug\Ex 05 Lista 04 Peso Ideal.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 05 Lista 04 Peso Ideal (deu erro)\Ex 05 Lista 04 Peso Ideal\bin\Debug\Ex 05 Lista 04 Peso Ideal.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 05 Lista 04 Peso Ideal (deu erro)\Ex 05 Lista 04 Peso Ideal\bin\Debug\Ex 05 Lista 04 Peso Ideal.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 05 Lista 04 Peso Ideal (deu erro)\Ex 05 Lista 04 Peso Ideal\bin\Debug\Ex 05 Lista 04 Peso Ideal.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 05 Lista 04 Peso Ideal (deu erro)\Ex 05 Lista 04 Peso Ideal\obj\Debug\Ex 05 Lista 04 Peso Ideal.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 05 Lista 04 Peso Ideal (deu erro)\Ex 05 Lista 04 Peso Ideal\obj\Debug\Ex 05 Lista 04 Peso Ideal.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 05 Lista 04 Peso Ideal (deu erro)\Ex 05 Lista 04 Peso Ideal\obj\Debug\Ex 05 Lista 04 Peso Ideal.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 05 Lista 04 Peso Ideal (deu erro)\Ex 05 Lista 04 Peso Ideal\obj\Debug\Ex 05 Lista 04 Peso Ideal.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 09\Lista 09\Lista 09\bin\Debug\Lista 09.exe.config
+C:\Users\Vitor\Documents\C# Lista 09\Lista 09\Lista 09\bin\Debug\Lista 09.exe
+C:\Users\Vitor\Documents\C# Lista 09\Lista 09\Lista 09\bin\Debug\Lista 09.pdb
+C:\Users\Vitor\Documents\C# Lista 09\Lista 09\Lista 09\obj\Debug\Lista 09.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 09\Lista 09\Lista 09\obj\Debug\Lista 09.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 09\Lista 09\Lista 09\obj\Debug\Lista 09.exe
+C:\Users\Vitor\Documents\C# Lista 09\Lista 09\Lista 09\obj\Debug\Lista 09.pdb

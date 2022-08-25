@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 04\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\bin\Debug\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\bin\Debug\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\bin\Debug\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\obj\Debug\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\obj\Debug\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\obj\Debug\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha\obj\Debug\Ex 09 Lista 04 Qnts Salários Mínimos Ele Ganha.pdb

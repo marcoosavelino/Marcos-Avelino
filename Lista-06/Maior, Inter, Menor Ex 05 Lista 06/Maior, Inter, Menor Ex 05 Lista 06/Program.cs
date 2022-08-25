@@ -1,0 +1,71 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Maior__Inter__Menor_Ex_05_Lista_06
+{
+    class Program
+    {
+        // Construa um algoritmo em C#, que receba três valores, A, B e C, e armazene-os em três
+        // variáveis com os seguintes nomes: MAIOR, INTER e MENOR(os nomes correspondem aos
+        // valores ordenados).
+        static void Main(string[] args)
+        {
+            double A, B, C;
+
+            Console.WriteLine("Informe o primeiro valor:");
+            A = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Informe o segundo valor:");
+            B = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Informe o terceiro valor:");
+            C = Convert.ToDouble(Console.ReadLine());
+
+
+            if ((A > B) && (A > C))
+            {
+
+                if (B > C)
+                {
+                    Console.WriteLine("Maior:{0},Inter:{1},Menor:{2}", A, B, C);
+                }
+                else
+                {
+                    Console.WriteLine("Maior:{0},Inter:{1},Menor:{2}", A, C, B);
+                }
+            }
+
+            else if ((B > A) && (B > C))
+            {
+
+                if (A > C)
+                {
+                    Console.WriteLine("Maior:{0},Inter:{1},Menor:{2}", B, A, C);
+                }
+                else
+                {
+                    Console.WriteLine("Maior:{0},Inter:{1},Menor:{2}", B, C, A);
+                }
+            }
+
+            else if ((C>A) && (C>B))
+            {
+
+                if (A > B) 
+                {
+                    Console.WriteLine("Maior:{0},Inter:{1},Menor:{2}", C, A, B);
+                }
+                else
+                {
+                    Console.WriteLine("Maior:{0},Inter:{1},Menor:{2}", C, B, A);
+                }
+            }
+
+            Console.ReadKey();
+            
+            
+
+        }
+    }
+}

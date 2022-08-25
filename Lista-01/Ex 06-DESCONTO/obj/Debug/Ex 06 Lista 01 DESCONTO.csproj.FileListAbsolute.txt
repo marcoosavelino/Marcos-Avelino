@@ -1,0 +1,5 @@
+H:\C# Lista 01\Ex 06 Lista 01 DESCONTO\bin\Debug\Ex 06 Lista 01 DESCONTO.exe.config
+H:\C# Lista 01\Ex 06 Lista 01 DESCONTO\bin\Debug\Ex 06 Lista 01 DESCONTO.exe
+H:\C# Lista 01\Ex 06 Lista 01 DESCONTO\bin\Debug\Ex 06 Lista 01 DESCONTO.pdb
+H:\C# Lista 01\Ex 06 Lista 01 DESCONTO\obj\Debug\Ex 06 Lista 01 DESCONTO.exe
+H:\C# Lista 01\Ex 06 Lista 01 DESCONTO\obj\Debug\Ex 06 Lista 01 DESCONTO.pdb

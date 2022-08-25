@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 13\Switch Lista 13\Switch Lista 13\bin\Debug\Switch Lista 13.exe.config
+C:\Users\Vitor\Documents\C# Lista 13\Switch Lista 13\Switch Lista 13\bin\Debug\Switch Lista 13.exe
+C:\Users\Vitor\Documents\C# Lista 13\Switch Lista 13\Switch Lista 13\bin\Debug\Switch Lista 13.pdb
+C:\Users\Vitor\Documents\C# Lista 13\Switch Lista 13\Switch Lista 13\obj\Debug\Switch Lista 13.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 13\Switch Lista 13\Switch Lista 13\obj\Debug\Switch Lista 13.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 13\Switch Lista 13\Switch Lista 13\obj\Debug\Switch Lista 13.exe
+C:\Users\Vitor\Documents\C# Lista 13\Switch Lista 13\Switch Lista 13\obj\Debug\Switch Lista 13.pdb

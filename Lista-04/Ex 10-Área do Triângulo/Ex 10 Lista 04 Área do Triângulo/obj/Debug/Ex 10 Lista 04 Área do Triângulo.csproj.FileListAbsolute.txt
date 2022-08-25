@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 04\Ex 10 Lista 04 Área do Triângulo\Ex 10 Lista 04 Área do Triângulo\bin\Debug\Ex 10 Lista 04 Área do Triângulo.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 10 Lista 04 Área do Triângulo\Ex 10 Lista 04 Área do Triângulo\bin\Debug\Ex 10 Lista 04 Área do Triângulo.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 10 Lista 04 Área do Triângulo\Ex 10 Lista 04 Área do Triângulo\bin\Debug\Ex 10 Lista 04 Área do Triângulo.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 10 Lista 04 Área do Triângulo\Ex 10 Lista 04 Área do Triângulo\obj\Debug\Ex 10 Lista 04 Área do Triângulo.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 10 Lista 04 Área do Triângulo\Ex 10 Lista 04 Área do Triângulo\obj\Debug\Ex 10 Lista 04 Área do Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 10 Lista 04 Área do Triângulo\Ex 10 Lista 04 Área do Triângulo\obj\Debug\Ex 10 Lista 04 Área do Triângulo.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 10 Lista 04 Área do Triângulo\Ex 10 Lista 04 Área do Triângulo\obj\Debug\Ex 10 Lista 04 Área do Triângulo.pdb

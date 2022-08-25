@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 04\Ex 06 Lista 04 Depósito e Rendimento\Ex 06 Lista 04 Depósito e Rendimento\obj\Debug\Ex 06 Lista 04 Depósito e Rendimento.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 06 Lista 04 Depósito e Rendimento\Ex 06 Lista 04 Depósito e Rendimento\obj\Debug\Ex 06 Lista 04 Depósito e Rendimento.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 06 Lista 04 Depósito e Rendimento\Ex 06 Lista 04 Depósito e Rendimento\bin\Debug\Ex 06 Lista 04 Depósito e Rendimento.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 06 Lista 04 Depósito e Rendimento\Ex 06 Lista 04 Depósito e Rendimento\bin\Debug\Ex 06 Lista 04 Depósito e Rendimento.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 06 Lista 04 Depósito e Rendimento\Ex 06 Lista 04 Depósito e Rendimento\bin\Debug\Ex 06 Lista 04 Depósito e Rendimento.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 06 Lista 04 Depósito e Rendimento\Ex 06 Lista 04 Depósito e Rendimento\obj\Debug\Ex 06 Lista 04 Depósito e Rendimento.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 06 Lista 04 Depósito e Rendimento\Ex 06 Lista 04 Depósito e Rendimento\obj\Debug\Ex 06 Lista 04 Depósito e Rendimento.pdb

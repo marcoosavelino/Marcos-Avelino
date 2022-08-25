@@ -1,0 +1,13 @@
+H:\C# Lista 01\Ex 01 Lista 01 Quadrado\bin\Debug\Ex 01 Lista 01 Quadrado.exe.config
+H:\C# Lista 01\Ex 01 Lista 01 Quadrado\obj\Debug\Ex 01 Lista 01 Quadrado.csprojResolveAssemblyReference.cache
+H:\C# Lista 01\Ex 01 Lista 01 Quadrado\bin\Debug\Ex 01 Lista 01 Quadrado.exe
+H:\C# Lista 01\Ex 01 Lista 01 Quadrado\bin\Debug\Ex 01 Lista 01 Quadrado.pdb
+H:\C# Lista 01\Ex 01 Lista 01 Quadrado\obj\Debug\Ex 01 Lista 01 Quadrado.exe
+H:\C# Lista 01\Ex 01 Lista 01 Quadrado\obj\Debug\Ex 01 Lista 01 Quadrado.pdb
+C:\Users\Vitor\Documents\C# Lista 01\Ex 01 Lista 01 Quadrado\bin\Debug\Ex 01 Lista 01 Quadrado.exe.config
+C:\Users\Vitor\Documents\C# Lista 01\Ex 01 Lista 01 Quadrado\bin\Debug\Ex 01 Lista 01 Quadrado.exe
+C:\Users\Vitor\Documents\C# Lista 01\Ex 01 Lista 01 Quadrado\bin\Debug\Ex 01 Lista 01 Quadrado.pdb
+C:\Users\Vitor\Documents\C# Lista 01\Ex 01 Lista 01 Quadrado\obj\Debug\Ex 01 Lista 01 Quadrado.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 01\Ex 01 Lista 01 Quadrado\obj\Debug\Ex 01 Lista 01 Quadrado.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 01\Ex 01 Lista 01 Quadrado\obj\Debug\Ex 01 Lista 01 Quadrado.exe
+C:\Users\Vitor\Documents\C# Lista 01\Ex 01 Lista 01 Quadrado\obj\Debug\Ex 01 Lista 01 Quadrado.pdb

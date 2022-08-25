@@ -1,0 +1,12 @@
+D:\C# Lista 04\Ex 03 Lista 04\Ex 03 Lista 04\bin\Debug\Ex 03 Lista 04.exe.config
+D:\C# Lista 04\Ex 03 Lista 04\Ex 03 Lista 04\bin\Debug\Ex 03 Lista 04.exe
+D:\C# Lista 04\Ex 03 Lista 04\Ex 03 Lista 04\bin\Debug\Ex 03 Lista 04.pdb
+D:\C# Lista 04\Ex 03 Lista 04\Ex 03 Lista 04\obj\Debug\Ex 03 Lista 04.exe
+D:\C# Lista 04\Ex 03 Lista 04\Ex 03 Lista 04\obj\Debug\Ex 03 Lista 04.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 03 Lista 04 quilowatts (corrigir)\Ex 03 Lista 04\bin\Debug\Ex 03 Lista 04.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 03 Lista 04 quilowatts (corrigir)\Ex 03 Lista 04\bin\Debug\Ex 03 Lista 04.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 03 Lista 04 quilowatts (corrigir)\Ex 03 Lista 04\bin\Debug\Ex 03 Lista 04.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 03 Lista 04 quilowatts (corrigir)\Ex 03 Lista 04\obj\Debug\Ex 03 Lista 04.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 03 Lista 04 quilowatts (corrigir)\Ex 03 Lista 04\obj\Debug\Ex 03 Lista 04.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 03 Lista 04 quilowatts (corrigir)\Ex 03 Lista 04\obj\Debug\Ex 03 Lista 04.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 03 Lista 04 quilowatts (corrigir)\Ex 03 Lista 04\obj\Debug\Ex 03 Lista 04.pdb

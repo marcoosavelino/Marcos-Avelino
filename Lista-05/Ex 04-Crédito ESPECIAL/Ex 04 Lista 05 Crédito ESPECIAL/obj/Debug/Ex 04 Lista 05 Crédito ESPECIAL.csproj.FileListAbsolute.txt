@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 05\Ex 04 Lista 05 Crédito ESPECIAL\Ex 04 Lista 05 Crédito ESPECIAL\bin\Debug\Ex 04 Lista 05 Crédito ESPECIAL.exe.config
+C:\Users\Vitor\Documents\C# Lista 05\Ex 04 Lista 05 Crédito ESPECIAL\Ex 04 Lista 05 Crédito ESPECIAL\bin\Debug\Ex 04 Lista 05 Crédito ESPECIAL.exe
+C:\Users\Vitor\Documents\C# Lista 05\Ex 04 Lista 05 Crédito ESPECIAL\Ex 04 Lista 05 Crédito ESPECIAL\bin\Debug\Ex 04 Lista 05 Crédito ESPECIAL.pdb
+C:\Users\Vitor\Documents\C# Lista 05\Ex 04 Lista 05 Crédito ESPECIAL\Ex 04 Lista 05 Crédito ESPECIAL\obj\Debug\Ex 04 Lista 05 Crédito ESPECIAL.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 05\Ex 04 Lista 05 Crédito ESPECIAL\Ex 04 Lista 05 Crédito ESPECIAL\obj\Debug\Ex 04 Lista 05 Crédito ESPECIAL.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 05\Ex 04 Lista 05 Crédito ESPECIAL\Ex 04 Lista 05 Crédito ESPECIAL\obj\Debug\Ex 04 Lista 05 Crédito ESPECIAL.exe
+C:\Users\Vitor\Documents\C# Lista 05\Ex 04 Lista 05 Crédito ESPECIAL\Ex 04 Lista 05 Crédito ESPECIAL\obj\Debug\Ex 04 Lista 05 Crédito ESPECIAL.pdb

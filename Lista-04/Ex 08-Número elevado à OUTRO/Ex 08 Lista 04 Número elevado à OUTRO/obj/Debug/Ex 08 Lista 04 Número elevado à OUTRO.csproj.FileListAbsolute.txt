@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 04\Ex 08 Lista 04 Número elevado à OUTRO\Ex 08 Lista 04 Número elevado à OUTRO\bin\Debug\Ex 08 Lista 04 Número elevado à OUTRO.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 08 Lista 04 Número elevado à OUTRO\Ex 08 Lista 04 Número elevado à OUTRO\bin\Debug\Ex 08 Lista 04 Número elevado à OUTRO.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 08 Lista 04 Número elevado à OUTRO\Ex 08 Lista 04 Número elevado à OUTRO\bin\Debug\Ex 08 Lista 04 Número elevado à OUTRO.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 08 Lista 04 Número elevado à OUTRO\Ex 08 Lista 04 Número elevado à OUTRO\obj\Debug\Ex 08 Lista 04 Número elevado à OUTRO.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 08 Lista 04 Número elevado à OUTRO\Ex 08 Lista 04 Número elevado à OUTRO\obj\Debug\Ex 08 Lista 04 Número elevado à OUTRO.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 08 Lista 04 Número elevado à OUTRO\Ex 08 Lista 04 Número elevado à OUTRO\obj\Debug\Ex 08 Lista 04 Número elevado à OUTRO.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 08 Lista 04 Número elevado à OUTRO\Ex 08 Lista 04 Número elevado à OUTRO\obj\Debug\Ex 08 Lista 04 Número elevado à OUTRO.pdb

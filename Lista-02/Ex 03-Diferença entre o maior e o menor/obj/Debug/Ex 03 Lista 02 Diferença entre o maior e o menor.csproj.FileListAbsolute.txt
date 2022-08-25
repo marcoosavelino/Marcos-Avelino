@@ -1,0 +1,6 @@
+H:\C# Lista 01\Ex 03 Lista 02 Diferença entre o maior e o menor\bin\Debug\Ex 03 Lista 02 Diferença entre o maior e o menor.exe.config
+H:\C# Lista 01\Ex 03 Lista 02 Diferença entre o maior e o menor\obj\Debug\Ex 03 Lista 02 Diferença entre o maior e o menor.csprojResolveAssemblyReference.cache
+H:\C# Lista 01\Ex 03 Lista 02 Diferença entre o maior e o menor\bin\Debug\Ex 03 Lista 02 Diferença entre o maior e o menor.exe
+H:\C# Lista 01\Ex 03 Lista 02 Diferença entre o maior e o menor\bin\Debug\Ex 03 Lista 02 Diferença entre o maior e o menor.pdb
+H:\C# Lista 01\Ex 03 Lista 02 Diferença entre o maior e o menor\obj\Debug\Ex 03 Lista 02 Diferença entre o maior e o menor.exe
+H:\C# Lista 01\Ex 03 Lista 02 Diferença entre o maior e o menor\obj\Debug\Ex 03 Lista 02 Diferença entre o maior e o menor.pdb

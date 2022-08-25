@@ -1,0 +1,12 @@
+H:\C# Lista 01\Ex 02 Lista 01 Media\bin\Debug\Ex 02 Lista 01 Media.exe.config
+H:\C# Lista 01\Ex 02 Lista 01 Media\bin\Debug\Ex 02 Lista 01 Media.exe
+H:\C# Lista 01\Ex 02 Lista 01 Media\bin\Debug\Ex 02 Lista 01 Media.pdb
+H:\C# Lista 01\Ex 02 Lista 01 Media\obj\Debug\Ex 02 Lista 01 Media.exe
+H:\C# Lista 01\Ex 02 Lista 01 Media\obj\Debug\Ex 02 Lista 01 Media.pdb
+C:\Users\Vitor\Documents\C# Lista 01\Ex 02 Lista 01 Media\bin\Debug\Ex 02 Lista 01 Media.exe.config
+C:\Users\Vitor\Documents\C# Lista 01\Ex 02 Lista 01 Media\bin\Debug\Ex 02 Lista 01 Media.exe
+C:\Users\Vitor\Documents\C# Lista 01\Ex 02 Lista 01 Media\bin\Debug\Ex 02 Lista 01 Media.pdb
+C:\Users\Vitor\Documents\C# Lista 01\Ex 02 Lista 01 Media\obj\Debug\Ex 02 Lista 01 Media.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 01\Ex 02 Lista 01 Media\obj\Debug\Ex 02 Lista 01 Media.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 01\Ex 02 Lista 01 Media\obj\Debug\Ex 02 Lista 01 Media.exe
+C:\Users\Vitor\Documents\C# Lista 01\Ex 02 Lista 01 Media\obj\Debug\Ex 02 Lista 01 Media.pdb

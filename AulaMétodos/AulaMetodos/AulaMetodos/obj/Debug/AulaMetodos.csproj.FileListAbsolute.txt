@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\AulaMétodos\AulaMetodos\AulaMetodos\bin\Debug\AulaMetodos.exe.config
+C:\Users\Vitor\Documents\AulaMétodos\AulaMetodos\AulaMetodos\bin\Debug\AulaMetodos.exe
+C:\Users\Vitor\Documents\AulaMétodos\AulaMetodos\AulaMetodos\bin\Debug\AulaMetodos.pdb
+C:\Users\Vitor\Documents\AulaMétodos\AulaMetodos\AulaMetodos\obj\Debug\AulaMetodos.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\AulaMétodos\AulaMetodos\AulaMetodos\obj\Debug\AulaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\AulaMétodos\AulaMetodos\AulaMetodos\obj\Debug\AulaMetodos.exe
+C:\Users\Vitor\Documents\AulaMétodos\AulaMetodos\AulaMetodos\obj\Debug\AulaMetodos.pdb

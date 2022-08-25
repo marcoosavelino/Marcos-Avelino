@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 06\Classe eleitoral Ex 01 Lista 06\Classe eleitoral Ex 01 Lista 06\bin\Debug\Classe eleitoral Ex 01 Lista 06.exe.config
+C:\Users\Vitor\Documents\C# Lista 06\Classe eleitoral Ex 01 Lista 06\Classe eleitoral Ex 01 Lista 06\bin\Debug\Classe eleitoral Ex 01 Lista 06.exe
+C:\Users\Vitor\Documents\C# Lista 06\Classe eleitoral Ex 01 Lista 06\Classe eleitoral Ex 01 Lista 06\bin\Debug\Classe eleitoral Ex 01 Lista 06.pdb
+C:\Users\Vitor\Documents\C# Lista 06\Classe eleitoral Ex 01 Lista 06\Classe eleitoral Ex 01 Lista 06\obj\Debug\Classe eleitoral Ex 01 Lista 06.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 06\Classe eleitoral Ex 01 Lista 06\Classe eleitoral Ex 01 Lista 06\obj\Debug\Classe eleitoral Ex 01 Lista 06.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 06\Classe eleitoral Ex 01 Lista 06\Classe eleitoral Ex 01 Lista 06\obj\Debug\Classe eleitoral Ex 01 Lista 06.exe
+C:\Users\Vitor\Documents\C# Lista 06\Classe eleitoral Ex 01 Lista 06\Classe eleitoral Ex 01 Lista 06\obj\Debug\Classe eleitoral Ex 01 Lista 06.pdb

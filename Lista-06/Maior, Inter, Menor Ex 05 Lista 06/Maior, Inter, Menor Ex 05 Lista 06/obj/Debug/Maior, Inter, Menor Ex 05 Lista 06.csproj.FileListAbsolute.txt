@@ -1,0 +1,6 @@
+C:\Users\Vitor\Documents\C# Lista 06\Maior, Inter, Menor Ex 05 Lista 06\Maior, Inter, Menor Ex 05 Lista 06\bin\Debug\Maior, Inter, Menor Ex 05 Lista 06.exe.config
+C:\Users\Vitor\Documents\C# Lista 06\Maior, Inter, Menor Ex 05 Lista 06\Maior, Inter, Menor Ex 05 Lista 06\bin\Debug\Maior, Inter, Menor Ex 05 Lista 06.exe
+C:\Users\Vitor\Documents\C# Lista 06\Maior, Inter, Menor Ex 05 Lista 06\Maior, Inter, Menor Ex 05 Lista 06\bin\Debug\Maior, Inter, Menor Ex 05 Lista 06.pdb
+C:\Users\Vitor\Documents\C# Lista 06\Maior, Inter, Menor Ex 05 Lista 06\Maior, Inter, Menor Ex 05 Lista 06\obj\Debug\Maior, Inter, Menor Ex 05 Lista 06.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 06\Maior, Inter, Menor Ex 05 Lista 06\Maior, Inter, Menor Ex 05 Lista 06\obj\Debug\Maior, Inter, Menor Ex 05 Lista 06.exe
+C:\Users\Vitor\Documents\C# Lista 06\Maior, Inter, Menor Ex 05 Lista 06\Maior, Inter, Menor Ex 05 Lista 06\obj\Debug\Maior, Inter, Menor Ex 05 Lista 06.pdb

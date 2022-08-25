@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 10\Switch Lista 10\Switch Lista 10\bin\Debug\Switch Lista 10.exe.config
+C:\Users\Vitor\Documents\C# Lista 10\Switch Lista 10\Switch Lista 10\bin\Debug\Switch Lista 10.exe
+C:\Users\Vitor\Documents\C# Lista 10\Switch Lista 10\Switch Lista 10\bin\Debug\Switch Lista 10.pdb
+C:\Users\Vitor\Documents\C# Lista 10\Switch Lista 10\Switch Lista 10\obj\Debug\Switch Lista 10.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 10\Switch Lista 10\Switch Lista 10\obj\Debug\Switch Lista 10.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 10\Switch Lista 10\Switch Lista 10\obj\Debug\Switch Lista 10.exe
+C:\Users\Vitor\Documents\C# Lista 10\Switch Lista 10\Switch Lista 10\obj\Debug\Switch Lista 10.pdb

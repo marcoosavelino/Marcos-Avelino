@@ -1,0 +1,5 @@
+H:\C# Lista 01\Ex 05 Lista 01 Negativo ou Positivo (A ou B)\bin\Debug\Ex 05 Lista 01 Negativo ou Positivo (A ou B).exe.config
+H:\C# Lista 01\Ex 05 Lista 01 Negativo ou Positivo (A ou B)\bin\Debug\Ex 05 Lista 01 Negativo ou Positivo (A ou B).exe
+H:\C# Lista 01\Ex 05 Lista 01 Negativo ou Positivo (A ou B)\bin\Debug\Ex 05 Lista 01 Negativo ou Positivo (A ou B).pdb
+H:\C# Lista 01\Ex 05 Lista 01 Negativo ou Positivo (A ou B)\obj\Debug\Ex 05 Lista 01 Negativo ou Positivo (A ou B).exe
+H:\C# Lista 01\Ex 05 Lista 01 Negativo ou Positivo (A ou B)\obj\Debug\Ex 05 Lista 01 Negativo ou Positivo (A ou B).pdb

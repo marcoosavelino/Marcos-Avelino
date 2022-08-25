@@ -1,0 +1,12 @@
+D:\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário\bin\Debug\Ex 03 Lista 03 Reajuste de Salário.exe.config
+D:\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário\bin\Debug\Ex 03 Lista 03 Reajuste de Salário.exe
+D:\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário\bin\Debug\Ex 03 Lista 03 Reajuste de Salário.pdb
+D:\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário\obj\Debug\Ex 03 Lista 03 Reajuste de Salário.exe
+D:\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário\obj\Debug\Ex 03 Lista 03 Reajuste de Salário.pdb
+C:\Users\Vitor\Documents\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário (corrigir)\bin\Debug\Ex 03 Lista 03 Reajuste de Salário.exe.config
+C:\Users\Vitor\Documents\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário (corrigir)\bin\Debug\Ex 03 Lista 03 Reajuste de Salário.exe
+C:\Users\Vitor\Documents\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário (corrigir)\bin\Debug\Ex 03 Lista 03 Reajuste de Salário.pdb
+C:\Users\Vitor\Documents\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário (corrigir)\obj\Debug\Ex 03 Lista 03 Reajuste de Salário.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário (corrigir)\obj\Debug\Ex 03 Lista 03 Reajuste de Salário.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário (corrigir)\obj\Debug\Ex 03 Lista 03 Reajuste de Salário.exe
+C:\Users\Vitor\Documents\C# Lista 03\Ex 03 Lista 03 Reajuste de Salário (corrigir)\obj\Debug\Ex 03 Lista 03 Reajuste de Salário.pdb

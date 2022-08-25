@@ -1,0 +1,13 @@
+D:\C# Lista 04\Ex 01 Lista 04 Valor da Peça\Ex 01 Lista 04 Valor da Peça\bin\Debug\Ex 01 Lista 04 Valor da Peça.exe.config
+D:\C# Lista 04\Ex 01 Lista 04 Valor da Peça\Ex 01 Lista 04 Valor da Peça\bin\Debug\Ex 01 Lista 04 Valor da Peça.exe
+D:\C# Lista 04\Ex 01 Lista 04 Valor da Peça\Ex 01 Lista 04 Valor da Peça\bin\Debug\Ex 01 Lista 04 Valor da Peça.pdb
+D:\C# Lista 04\Ex 01 Lista 04 Valor da Peça\Ex 01 Lista 04 Valor da Peça\obj\Debug\Ex 01 Lista 04 Valor da Peça.csprojResolveAssemblyReference.cache
+D:\C# Lista 04\Ex 01 Lista 04 Valor da Peça\Ex 01 Lista 04 Valor da Peça\obj\Debug\Ex 01 Lista 04 Valor da Peça.exe
+D:\C# Lista 04\Ex 01 Lista 04 Valor da Peça\Ex 01 Lista 04 Valor da Peça\obj\Debug\Ex 01 Lista 04 Valor da Peça.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 01 Lista 04 Valor da Peça (corrigir)\Ex 01 Lista 04 Valor da Peça\bin\Debug\Ex 01 Lista 04 Valor da Peça.exe.config
+C:\Users\Vitor\Documents\C# Lista 04\Ex 01 Lista 04 Valor da Peça (corrigir)\Ex 01 Lista 04 Valor da Peça\bin\Debug\Ex 01 Lista 04 Valor da Peça.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 01 Lista 04 Valor da Peça (corrigir)\Ex 01 Lista 04 Valor da Peça\bin\Debug\Ex 01 Lista 04 Valor da Peça.pdb
+C:\Users\Vitor\Documents\C# Lista 04\Ex 01 Lista 04 Valor da Peça (corrigir)\Ex 01 Lista 04 Valor da Peça\obj\Debug\Ex 01 Lista 04 Valor da Peça.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 01 Lista 04 Valor da Peça (corrigir)\Ex 01 Lista 04 Valor da Peça\obj\Debug\Ex 01 Lista 04 Valor da Peça.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 04\Ex 01 Lista 04 Valor da Peça (corrigir)\Ex 01 Lista 04 Valor da Peça\obj\Debug\Ex 01 Lista 04 Valor da Peça.exe
+C:\Users\Vitor\Documents\C# Lista 04\Ex 01 Lista 04 Valor da Peça (corrigir)\Ex 01 Lista 04 Valor da Peça\obj\Debug\Ex 01 Lista 04 Valor da Peça.pdb

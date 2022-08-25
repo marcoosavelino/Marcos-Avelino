@@ -1,0 +1,6 @@
+C:\Users\Vitor\Documents\C# Lista 07\Reajuste de Salário Ex 01 Lista 07\Reajuste de Salário Ex 01 Lista 07\bin\Debug\Reajuste de Salário Ex 01 Lista 07.exe.config
+C:\Users\Vitor\Documents\C# Lista 07\Reajuste de Salário Ex 01 Lista 07\Reajuste de Salário Ex 01 Lista 07\bin\Debug\Reajuste de Salário Ex 01 Lista 07.exe
+C:\Users\Vitor\Documents\C# Lista 07\Reajuste de Salário Ex 01 Lista 07\Reajuste de Salário Ex 01 Lista 07\bin\Debug\Reajuste de Salário Ex 01 Lista 07.pdb
+C:\Users\Vitor\Documents\C# Lista 07\Reajuste de Salário Ex 01 Lista 07\Reajuste de Salário Ex 01 Lista 07\obj\Debug\Reajuste de Salário Ex 01 Lista 07.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 07\Reajuste de Salário Ex 01 Lista 07\Reajuste de Salário Ex 01 Lista 07\obj\Debug\Reajuste de Salário Ex 01 Lista 07.exe
+C:\Users\Vitor\Documents\C# Lista 07\Reajuste de Salário Ex 01 Lista 07\Reajuste de Salário Ex 01 Lista 07\obj\Debug\Reajuste de Salário Ex 01 Lista 07.pdb

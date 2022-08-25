@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\AulaArrayString\PraVerSeEuSei\PraVerSeEuSei\bin\Debug\PraVerSeEuSei.exe.config
+C:\Users\Vitor\Documents\AulaArrayString\PraVerSeEuSei\PraVerSeEuSei\bin\Debug\PraVerSeEuSei.exe
+C:\Users\Vitor\Documents\AulaArrayString\PraVerSeEuSei\PraVerSeEuSei\bin\Debug\PraVerSeEuSei.pdb
+C:\Users\Vitor\Documents\AulaArrayString\PraVerSeEuSei\PraVerSeEuSei\obj\Debug\PraVerSeEuSei.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\AulaArrayString\PraVerSeEuSei\PraVerSeEuSei\obj\Debug\PraVerSeEuSei.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\AulaArrayString\PraVerSeEuSei\PraVerSeEuSei\obj\Debug\PraVerSeEuSei.exe
+C:\Users\Vitor\Documents\AulaArrayString\PraVerSeEuSei\PraVerSeEuSei\obj\Debug\PraVerSeEuSei.pdb

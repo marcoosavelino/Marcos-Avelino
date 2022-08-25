@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 18\Switch Lista 18\Switch Lista 18\bin\Debug\Switch Lista 18.exe.config
+C:\Users\Vitor\Documents\C# Lista 18\Switch Lista 18\Switch Lista 18\bin\Debug\Switch Lista 18.exe
+C:\Users\Vitor\Documents\C# Lista 18\Switch Lista 18\Switch Lista 18\bin\Debug\Switch Lista 18.pdb
+C:\Users\Vitor\Documents\C# Lista 18\Switch Lista 18\Switch Lista 18\obj\Debug\Switch Lista 18.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 18\Switch Lista 18\Switch Lista 18\obj\Debug\Switch Lista 18.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 18\Switch Lista 18\Switch Lista 18\obj\Debug\Switch Lista 18.exe
+C:\Users\Vitor\Documents\C# Lista 18\Switch Lista 18\Switch Lista 18\obj\Debug\Switch Lista 18.pdb

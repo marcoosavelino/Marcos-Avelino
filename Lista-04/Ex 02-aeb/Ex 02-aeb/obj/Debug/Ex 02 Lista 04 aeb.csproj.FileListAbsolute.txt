@@ -1,0 +1,5 @@
+D:\C# Lista 04\Ex 02 Lista 04 aeb\Ex 02 Lista 04 aeb\bin\Debug\Ex 02 Lista 04 aeb.exe.config
+D:\C# Lista 04\Ex 02 Lista 04 aeb\Ex 02 Lista 04 aeb\bin\Debug\Ex 02 Lista 04 aeb.exe
+D:\C# Lista 04\Ex 02 Lista 04 aeb\Ex 02 Lista 04 aeb\bin\Debug\Ex 02 Lista 04 aeb.pdb
+D:\C# Lista 04\Ex 02 Lista 04 aeb\Ex 02 Lista 04 aeb\obj\Debug\Ex 02 Lista 04 aeb.exe
+D:\C# Lista 04\Ex 02 Lista 04 aeb\Ex 02 Lista 04 aeb\obj\Debug\Ex 02 Lista 04 aeb.pdb

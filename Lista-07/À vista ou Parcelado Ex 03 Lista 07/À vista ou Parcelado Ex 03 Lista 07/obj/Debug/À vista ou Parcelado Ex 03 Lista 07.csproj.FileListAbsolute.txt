@@ -1,0 +1,7 @@
+C:\Users\Vitor\Documents\C# Lista 07\À vista ou Parcelado Ex 03 Lista 07\À vista ou Parcelado Ex 03 Lista 07\bin\Debug\À vista ou Parcelado Ex 03 Lista 07.exe.config
+C:\Users\Vitor\Documents\C# Lista 07\À vista ou Parcelado Ex 03 Lista 07\À vista ou Parcelado Ex 03 Lista 07\bin\Debug\À vista ou Parcelado Ex 03 Lista 07.exe
+C:\Users\Vitor\Documents\C# Lista 07\À vista ou Parcelado Ex 03 Lista 07\À vista ou Parcelado Ex 03 Lista 07\bin\Debug\À vista ou Parcelado Ex 03 Lista 07.pdb
+C:\Users\Vitor\Documents\C# Lista 07\À vista ou Parcelado Ex 03 Lista 07\À vista ou Parcelado Ex 03 Lista 07\obj\Debug\À vista ou Parcelado Ex 03 Lista 07.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\C# Lista 07\À vista ou Parcelado Ex 03 Lista 07\À vista ou Parcelado Ex 03 Lista 07\obj\Debug\À vista ou Parcelado Ex 03 Lista 07.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\C# Lista 07\À vista ou Parcelado Ex 03 Lista 07\À vista ou Parcelado Ex 03 Lista 07\obj\Debug\À vista ou Parcelado Ex 03 Lista 07.exe
+C:\Users\Vitor\Documents\C# Lista 07\À vista ou Parcelado Ex 03 Lista 07\À vista ou Parcelado Ex 03 Lista 07\obj\Debug\À vista ou Parcelado Ex 03 Lista 07.pdb
